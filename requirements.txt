@@ -1,0 +1,28 @@
+# Django framework
+Django==5.2.6
+
+# Django REST Framework
+djangorestframework==3.20.1
+
+# Pagination et filtres
+django-filter==23.2
+
+# Swagger UI pour DRF
+drf-yasg==1.22.5
+
+# Pour gérer les fichiers MEGA
+mega.py==1.1.2
+
+# Gestion des variables d'environnement
+python-dotenv==1.0.0
+
+# Base de données PostgreSQL
+psycopg[binary]==3.2.2
+dj-database-url==1.2.0
+
+# Pour le déploiement
+gunicorn==21.2.0
+whitenoise==7.1.0
+
+# Sécurité et CORS
+django-cors-headers==4.3.0
